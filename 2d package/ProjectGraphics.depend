@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1556708652 source:c:\users\ahmed\desktop\graphics\projectgraphics\main.cpp
+	"Utilities.h"
+	"Menu.h"
+
+1556708057 c:\users\ahmed\desktop\graphics\projectgraphics\utilities.h
+	<bits/stdc++.h>
+	<windows.h>
+	<tchar.h>
+
+1556655842 c:\users\ahmed\desktop\graphics\projectgraphics\menu.h
+	<iostream>
+	<windows.h>
+	<tchar.h>
+	"Headers.h"
+
+1556655203 c:\users\ahmed\desktop\graphics\projectgraphics\headers.h
+	<vector>
+	<bits/stdc++.h>
+
+1556921688 source:c:\users\ahmed\desktop\graphics\2d package\main.cpp
+	"Utilities.h"
+	"Menu.h"
+
+1556978470 c:\users\ahmed\desktop\graphics\2d package\utilities.h
+	<bits/stdc++.h>
+	<windows.h>
+	<tchar.h>
+
+1556655842 c:\users\ahmed\desktop\graphics\2d package\menu.h
+	<iostream>
+	<windows.h>
+	<tchar.h>
+	"Headers.h"
+
+1556655203 c:\users\ahmed\desktop\graphics\2d package\headers.h
+	<vector>
+	<bits/stdc++.h>
+
