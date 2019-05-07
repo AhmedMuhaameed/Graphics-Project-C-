@@ -16,4 +16,4 @@
 * 3D sphere
 * Camera view
 
-# Note: To Use 3D package ypu must have openGL.
+# Note: To Use 3D package you must have openGL.
