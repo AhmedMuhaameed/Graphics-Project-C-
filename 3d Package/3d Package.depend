@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556827669 source:c:\users\ahmad\desktop\phase 3\3d package\main.cpp
+	<cstdio>
+	<bits/stdc++.h>
+	<GL/glut.h>
+
+1557005005 source:c:\users\ahmed\desktop\graphics\3d package\main.cpp
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<windows.h>
+
